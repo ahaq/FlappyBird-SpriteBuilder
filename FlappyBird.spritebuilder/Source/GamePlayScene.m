@@ -11,6 +11,7 @@
     
     [self addObstacle];
     
+    // used to track time before next obstacle is added
     timeSinceObstacle = 0.0f;
 }
 
