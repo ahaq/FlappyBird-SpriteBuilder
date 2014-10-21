@@ -28,7 +28,7 @@
     {
         [self addObstacle];
         
-        timeSinceObstacle = 0.0f
+        timeSinceObstacle = 0.0f;
     }
 }
 
